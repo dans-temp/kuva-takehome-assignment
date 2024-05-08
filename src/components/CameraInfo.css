@@ -1,0 +1,24 @@
+.camera-info-container {
+    text-align: center;
+    margin-left: 25%;
+    padding: 20px;
+    background-color: var(--kuva-black);
+    color: white;
+}
+
+.camera-title {
+    color: var(--kuva-orange);
+    font-size: 48px;
+}
+.camera-info-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.camera-info-container ul li {
+    margin-bottom: 10px;
+}
+
+.camera-section {
+    padding-bottom: 40px;
+}

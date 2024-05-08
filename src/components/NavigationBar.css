@@ -1,0 +1,22 @@
+.nav-container {
+    width: 15%;
+}
+
+.nav-bg {
+    width: 15%;
+    background-color: #222222;
+    position: fixed;
+    top: 0;
+    bottom: 0; 
+}
+
+.nav-logo {
+    width: 95%;
+    margin-bottom: 50px;
+}
+
+.nav-link {
+    color: white;
+    display: block;
+    margin-bottom: 30px;
+}
